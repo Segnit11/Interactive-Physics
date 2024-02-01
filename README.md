@@ -1,5 +1,5 @@
 # Interactive-Physics
-A Windows App that simulates a creative quiz using Java and an interactive GUI on NetBeans by utilizing Adobe Photo-shop with an aim to make learning physics more interactive and engaging for middle school students.
+An innovative Windows application, developed using Java and an engaging GUI on NetBeans, that simulates a creative quiz. It leverages Adobe Photoshop to enhance the user experience, with the primary goal of making physics learning more interactive and captivating for middle school students.
 
 Demo <br/>
 ![](https://github.com/jaft24/Interactive-Physics/blob/main/ipDemo.png)
